@@ -5,12 +5,12 @@
     * R
 
 * TBC - Wednesday Oct 14, 2020
-    * __Iris Ganser__
+    * 
     * Using `tbd()`
     * R
 
 * TBC - Wednesday Oct 28, 2020
-    * __Kevin Jutras__
+    * 
     * Using `tbd()`
     * R
 
