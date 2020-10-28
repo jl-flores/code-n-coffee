@@ -1,14 +1,4 @@
 ## Upcoming sessions
-* Bayesian modelling in R - Wednesday Oct 14, 2020
-    * __Kevin Jutras__ - showing `rethinking()`
-    * Using `base(list, rnorm, dnorm)`
-    * R, Rtools (for Windows) or Xcode (for Mac)
-
-* TBC - Wednesday Oct 28, 2020
-    * __Iris Ganser__
-    * Using `tbd()`
-    * R
-
 * TBC - Wednesday Nov 11, 2020
     * __TBD__
     * Using `tbd()`
@@ -20,6 +10,16 @@
     * R
 
 ## Past sessions 
+* Using GitHub for version control and collaboration - Wednesday Oct 28, 2020
+    * __Iris Ganser__
+    * Using `GitHub`
+    * R, Git
+
+* Bayesian modelling in R - Wednesday Oct 14, 2020
+    * __Kevin Jutras__ - showing `rethinking()`
+    * Using `base(list, rnorm, dnorm)`
+    * R, Rtools (for Windows) or Xcode (for Mac)
+
 * Descriptive and exploratory data analysis with %>% (pipes), dplyr() and ggplot() functions - Wednesday Sept 30, 2020
     * __Jorge Luis Flores__ - showing `dplyr(mutate, group_by, summarize)` and `ggplot(geom_bar, geom_text, facet_wrap)`
     * Using `lubridate(year, dmy)`
