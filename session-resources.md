@@ -1,4 +1,11 @@
 ## Additional resources provided in past sessions 
+* Introduction to spatial analysis in R: Mapping and spatial interpolation - Wednesday Nov 11, 2020
+    * __Susannah Ripley & Martha Lee__ - showing `ggplot2`, `sf`, `spatstat`, `tmap`, `raster`
+    * https://eriqande.github.io/rep-res-eeb-2017/map-making-in-R.html 
+    * https://rspatial.org/raster/analysis/4-interpolation.html 
+    * https://andrewpwheeler.com/2016/11/02/some-inverse-distance-weighting-hacks-using-r-and-spatstat/ 
+    * https://mgimond.github.io/Spatial/interpolation-in-r.html 
+
 * Using GitHub for version control and collaboration - Wednesday Oct 28, 2020
     * __Iris Ganser__
     * Using `GitHub`

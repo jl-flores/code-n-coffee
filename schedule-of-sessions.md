@@ -1,7 +1,7 @@
 ## Upcoming sessions
-* TBC - Wednesday Nov 11, 2020
-    * __TBD__
-    * Using `tbd()`
+* Introduction to spatial analysis in R: Mapping and spatial interpolation - Wednesday Nov 11, 2020
+    * __Susannah Ripley & Martha Lee__ - showing `ggplot2`, `sf`, `spatstat`, `tmap`, `raster`
+    * Using `dplyr (filter, select, mutate)`, `rgdal` , `tidyverse`, `maptools`
     * R
 
 * TBC - Wednesday Nov 25, 2020
