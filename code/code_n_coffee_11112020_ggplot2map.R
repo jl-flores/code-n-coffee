@@ -1,3 +1,5 @@
+# Presenters: Susannah Ripley & Martha Lee
+
 # Creating a simple thematic map using ggplot2 in R
 # Code and Coffee, 11 November 2020
 # Started 2020-09-07

@@ -1,4 +1,9 @@
 ## Additional resources provided in past sessions 
+* Working with longitudinal data: the RLE (run length encoding) function and applications - Wednesday Nov 25, 2020
+    * __Chinchin Wang__ - showing `base(rle)`
+    * https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/rle
+    * https://www.r-bloggers.com/2009/09/r-function-of-the-day-rle-2/
+
 * Introduction to spatial analysis in R: Mapping and spatial interpolation - Wednesday Nov 11, 2020
     * __Susannah Ripley & Martha Lee__ - showing `ggplot2`, `sf`, `spatstat`, `tmap`, `raster`
     * https://eriqande.github.io/rep-res-eeb-2017/map-making-in-R.html 
