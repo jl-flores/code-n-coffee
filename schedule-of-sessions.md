@@ -1,10 +1,30 @@
 ## Upcoming sessions
+* Survival analysis in R using survival and survminer - from getting your ducks (data) in rows to plotting and regression - Monday Feb 8, 2021
+    * __Jorge Luis Flores__ - showing `survival(Surv, coxph)` and `survminer(surv_fit, ggsurvplot)`
+    * Using `tidyverse`, `RColorBrewer`, `broom`
+    * R
+
+* TBC - Monday Feb 22, 2021
+    * __TBD__
+    * Using `tbd()`
+    * R
+
+* TBC - Monday Mar 8, 2021
+    * __TBD__
+    * Using `tbd()`
+    * R
+
+* TBC - Monday Mar 22, 2021
+    * __TBD__
+    * Using `tbd()`
+    * R
+
+## Past sessions 
 * Working with longitudinal data: the RLE (run length encoding) function and applications - Wednesday Nov 25, 2020
     * __Chinchin Wang__ - showing `base(rle)`
     * Using `tidyverse()`, `lubridate()`
     * R
 
-## Past sessions 
 * Introduction to spatial analysis in R: Mapping and spatial interpolation - Wednesday Nov 11, 2020
     * __Susannah Ripley & Martha Lee__ - showing `ggplot2`, `sf`, `spatstat`, `tmap`, `raster`
     * Using `dplyr(filter, select, mutate)`, `rgdal` , `tidyverse`, `maptools`
