@@ -5,4 +5,4 @@ Code and Coffee is a 15-30 minute bi-weekly session where a student shares some 
 
 This initiative is currently being organized by Marshall Lloyd (epi PhD student) and Chinchin Wang (epi PhD student).
 
-![Code and Coffee logo](/images/cnc-logo.jpg)
+![Code and Coffee logo](/images/cnc-logo-winter.jpg)

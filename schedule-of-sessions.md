@@ -1,25 +1,25 @@
 ## Upcoming sessions
+* TBC - Monday Feb 22, 2021
+    * __Chinchin Wang__
+    * Using `tbd()`
+    * R
+
+* TBC - Monday Mar 8, 2021
+    * __Lena Faust__
+    * Using `tbd()`
+    * R
+
+* TBC - Monday Mar 22, 2021
+    * __Jonah Gorodensky__
+    * Using `tbd()`
+    * R
+
+## Past sessions 
 * Survival analysis in R using survival and survminer - from getting your ducks (data) in rows to plotting and regression - Monday Feb 8, 2021
     * __Jorge Luis Flores__ - showing `survival(Surv, coxph)` and `survminer(surv_fit, ggsurvplot)`
     * Using `tidyverse`, `RColorBrewer`, `broom`
     * R
 
-* TBC - Monday Feb 22, 2021
-    * __TBD__
-    * Using `tbd()`
-    * R
-
-* TBC - Monday Mar 8, 2021
-    * __TBD__
-    * Using `tbd()`
-    * R
-
-* TBC - Monday Mar 22, 2021
-    * __TBD__
-    * Using `tbd()`
-    * R
-
-## Past sessions 
 * Working with longitudinal data: the RLE (run length encoding) function and applications - Wednesday Nov 25, 2020
     * __Chinchin Wang__ - showing `base(rle)`
     * Using `tidyverse()`, `lubridate()`
