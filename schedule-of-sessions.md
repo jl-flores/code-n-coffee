@@ -1,7 +1,7 @@
 ## Upcoming sessions
-* TBC - Monday Feb 22, 2021
-    * __Chinchin Wang__
-    * Using `tbd()`
+* Creating your own functions and loops in R - Monday Feb 22, 2021
+    * __Chinchin Wang__ - showing `apply`, `map` and `function`
+    * Using `tidyverse()`
     * R
 
 * TBC - Monday Mar 8, 2021

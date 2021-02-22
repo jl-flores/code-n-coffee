@@ -1,4 +1,9 @@
 ## Additional resources provided in past sessions 
+* Creating your own functions and loops in R - Monday Feb 22, 2021
+    * __Chinchin Wang__ - showing `apply`, `map` and `function`
+    * https://r4ds.had.co.nz/functions.html
+    * https://jtr13.github.io/spring19/ss5593&fq2150.html
+
 * Survival analysis in R using survival and survminer - from getting your ducks (data) in rows to plotting and regression - Monday Feb 8, 2021
     * __Jorge Luis Flores__ - showing `survival(Surv, coxph)` and `survminer(surv_fit, ggsurvplot)`
     * https://rpkgs.datanovia.com/survminer/index.html
