@@ -1,4 +1,8 @@
 ## Additional resources provided in past sessions 
+* Raster basics - Monday Mar 8, 2021
+    * __Lena Faust__ - showing `raster()`
+    * https://cran.r-project.org/web/packages/raster/raster.pdf
+
 * Creating your own functions and loops in R - Monday Feb 22, 2021
     * __Chinchin Wang__ - showing `apply`, `map` and `function`
     * https://r4ds.had.co.nz/functions.html

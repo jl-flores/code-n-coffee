@@ -1,12 +1,7 @@
 ## Upcoming sessions
-* Creating your own functions and loops in R - Monday Feb 22, 2021
-    * __Chinchin Wang__ - showing `apply`, `map` and `function`
-    * Using `tidyverse()`
-    * R
-
-* TBC - Monday Mar 8, 2021
-    * __Lena Faust__
-    * Using `tbd()`
+* Raster basics - Monday Mar 8, 2021
+    * __Lena Faust__ - showing `raster()`
+    * Using `rgdal()`
     * R
 
 * TBC - Monday Mar 22, 2021
@@ -14,7 +9,17 @@
     * Using `tbd()`
     * R
 
+* TBC - Monday Apr 5, 2021
+    * __TBC__
+    * Using `tbd()`
+    * R
+
 ## Past sessions 
+* Creating your own functions and loops in R - Monday Feb 22, 2021
+    * __Chinchin Wang__ - showing `apply`, `map` and `function`
+    * Using `tidyverse()`
+    * R
+
 * Survival analysis in R using survival and survminer - from getting your ducks (data) in rows to plotting and regression - Monday Feb 8, 2021
     * __Jorge Luis Flores__ - showing `survival(Surv, coxph)` and `survminer(surv_fit, ggsurvplot)`
     * Using `tidyverse`, `RColorBrewer`, `broom`
