@@ -38,7 +38,7 @@ plot(rast2, useRaster=FALSE, main="Higher Res Raster")
 #### LOADING AN EXISTING RASTER INTO R ####
 
 # raster as R object
-DEM_raster <- raster("NEON-DS-Field-Site-Spatial-Data/SJER/DigitalTerrainModel/SJER2013_DTM.tif") 
+DEM_raster <- raster("DigitalTerrainModel/SJER2013_DTM.tif") 
 
 # view raster attributes
 DEM_raster

@@ -2,6 +2,8 @@
 * Raster basics - Monday Mar 8, 2021
     * __Lena Faust__ - showing `raster()`
     * https://cran.r-project.org/web/packages/raster/raster.pdf
+    * https://www.neonscience.org/resources/learning-hub/tutorials/raster-res-extent-pixels-r
+    * https://www.neonscience.org/resources/learning-hub/tutorials/raster-data-r
 
 * Creating your own functions and loops in R - Monday Feb 22, 2021
     * __Chinchin Wang__ - showing `apply`, `map` and `function`
