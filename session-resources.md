@@ -1,4 +1,10 @@
 ## Additional resources provided in past sessions 
+* Data.table - faster data manipulation - Monday Mar 22, 2021
+    * __Jonah Gorodensky__ - showing `data.table()`
+    * https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html 
+    * https://m-clark.github.io/data-processing-and-visualization/data_table.html#string-matching 
+    * https://www.machinelearningplus.com/data-manipulation/datatable-in-r-complete-guide/ 
+
 * Raster basics - Monday Mar 8, 2021
     * __Lena Faust__ - showing `raster()`
     * https://cran.r-project.org/web/packages/raster/raster.pdf

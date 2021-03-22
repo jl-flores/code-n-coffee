@@ -1,20 +1,20 @@
 ## Upcoming sessions
-* Raster basics - Monday Mar 8, 2021
-    * __Lena Faust__ - showing `raster()`
-    * Using `rgdal()`
+* Data.table - faster data manipulation - Monday Mar 22, 2021
+    * __Jonah Gorodensky__ - showing `data.table()`
+    * Using `dplyr()`, `readr()`, `microbenchmark()`
     * R
 
-* TBC - Monday Mar 22, 2021
-    * __Jonah Gorodensky__
-    * Using `tbd()`
-    * R
-
-* TBC - Monday Apr 5, 2021
+* TBC - Monday Apr 12, 2021
     * __TBC__
     * Using `tbd()`
     * R
 
 ## Past sessions 
+* Raster basics - Monday Mar 8, 2021
+    * __Lena Faust__ - showing `raster()`
+    * Using `rgdal()`
+    * R
+
 * Creating your own functions and loops in R - Monday Feb 22, 2021
     * __Chinchin Wang__ - showing `apply`, `map` and `function`
     * Using `tidyverse()`
