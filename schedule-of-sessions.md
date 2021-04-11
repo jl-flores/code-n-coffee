@@ -1,15 +1,15 @@
 ## Upcoming sessions
+* Intro to creating a Shiny App (i.e. an interactive webpage) - Monday Apr 12, 2021
+    * __Marshall Lloyd__ - showing `shiny()`
+    * Using `dplyr()`
+    * R
+
+## Past sessions 
 * Data.table - faster data manipulation - Monday Mar 22, 2021
     * __Jonah Gorodensky__ - showing `data.table()`
     * Using `dplyr()`, `readr()`, `microbenchmark()`
     * R
 
-* TBC - Monday Apr 12, 2021
-    * __TBC__
-    * Using `tbd()`
-    * R
-
-## Past sessions 
 * Raster basics - Monday Mar 8, 2021
     * __Lena Faust__ - showing `raster()`
     * Using `rgdal()`

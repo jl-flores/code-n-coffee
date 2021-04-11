@@ -1,4 +1,9 @@
 ## Additional resources provided in past sessions 
+* Intro to creating a Shiny App (i.e. an interactive webpage) - Monday Apr 12, 2021
+    * https://shiny.rstudio.com/tutorial/ 
+    * https://shiny.rstudio.com/ 
+    * https://www.shinyapps.io/ 
+
 * Data.table - faster data manipulation - Monday Mar 22, 2021
     * __Jonah Gorodensky__ - showing `data.table()`
     * https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html 
